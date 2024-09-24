@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Digipares
+comment1.params=n
+comment1.target=int\ digipares(int)
+comment2.params=pares\ aux
+comment2.target=int\ sumaDePares(java.util.ArrayList,\ int)
+comment3.params=impares\ aux
+comment3.target=int\ sumaDeImpares(java.util.ArrayList,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
